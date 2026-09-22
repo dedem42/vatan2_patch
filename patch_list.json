@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-09-22 07:32:19",
+    "updated_at":  "2026-09-22 07:44:39",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -14,12 +14,12 @@
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "0397107F95B1620A12E79890E8590675B1DD2E93203FDF152B79671CA555DC01",
+                      "sha256":  "E7F2C28B25EDA159B31A1781A048A3F0309111DF432B75E3389C534C0EB26773",
                       "size":  14157556
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "73FAB6C6CEA07B4A11EAB8319575FB6CE911BDF87DA5845E6779E3F274853953",
+                      "sha256":  "33B5AEC65C7ACB791D13084515151AE99E6780DAB9680CEBC2244CA36BC45227",
                       "size":  27656
                   },
                   {
@@ -44,14 +44,14 @@
                   },
                   {
                       "path":  "Metin2Distribute.exe",
-                      "sha256":  "44DEE6680CFF3B50EF39630F635EF28A04C2297B43C94D39B683FFE92F405213",
-                      "size":  3500032
+                      "sha256":  "D7DEB6C349E6EEEFA49EC856280869C5763E43471A845E4D0B2E45F4FF76100F",
+                      "size":  3501056
                   },
                   {
                       "path":  "Selcuklu2.exe",
-                      "sha256":  "AC7FD66AE5A52BBD37DAE2225D9DF024EAAFC6C47759B8409F1B542347EE219D",
+                      "sha256":  "19597157FC485C7B8EF1155C0E767C0A8234D0B8A8F396284FE0D2F31EC117A7",
                       "size":  1104384
                   }
               ],
-    "version":  "20260922073219"
+    "version":  "20260922074439"
 }
