@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-09-25 04:16:06",
+    "updated_at":  "2026-09-25 05:24:23",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -14,12 +14,12 @@
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "6BEAB499A05870D10F656A71526B1AED2A1A9CC891EA04B72E9513533EB00D5A",
-                      "size":  14240222
+                      "sha256":  "492B03FE4801ABF344D984B191DF43A041942F58EB80EFCF7BD4D73DB9381B89",
+                      "size":  14240382
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "17B07F78CEC2D4D3E00E034BCF22E0C3C521E93F897CA0853DD0CBB12CAD6C12",
+                      "sha256":  "AE0E2B66670779F98A81770DAC7C6C9019D42ABAFBEB21F13C79DFF5963FE027",
                       "size":  28328
                   },
                   {
@@ -58,10 +58,45 @@
                       "size":  4114
                   },
                   {
+                      "path":  "icon/item/72352.tga",
+                      "sha256":  "365445D1ED0B309AD7E7CA5E09E29F44E761F86EA818089C95C0C98E54614DDA",
+                      "size":  4140
+                  },
+                  {
+                      "path":  "icon/item/50331.tga",
+                      "sha256":  "FDC00A8DAD93C499EEB42592894D5D1790A51F027F3B2B07024CBA5607C1BDA2",
+                      "size":  4140
+                  },
+                  {
+                      "path":  "icon/item/50332.tga",
+                      "sha256":  "43F3C814630E5DCCB67C84C08FD070117F121D63C196DC96E65F74A70F8E301D",
+                      "size":  4140
+                  },
+                  {
+                      "path":  "icon/item/50333.tga",
+                      "sha256":  "C16906CF1BB8D1538E7D94F59B534CC610B28A7821B1D0F05C87E2924D3D3AA5",
+                      "size":  4140
+                  },
+                  {
+                      "path":  "icon/item/50335.tga",
+                      "sha256":  "54A22EFC4EFE5A5B0C35CE165BD20940749FDE77A8231A3DFACB4C8B34AE26B9",
+                      "size":  4140
+                  },
+                  {
+                      "path":  "icon/item/50336.tga",
+                      "sha256":  "78A7328BDD2DC94A8A895372B7777B947E14EF01A91277F828EB1AEAA68EA239",
+                      "size":  4140
+                  },
+                  {
+                      "path":  "icon/item/50337.tga",
+                      "sha256":  "F74E4936086A9E9C1CBFB58F519420CDB670D34566FEC283071B5B314D2A345A",
+                      "size":  4140
+                  },
+                  {
                       "path":  "Metin2Distribute.exe",
                       "sha256":  "9BFE1D63445C9067E17DB28A45534D15DD62D56C213F354319963EEFDFB7E082",
                       "size":  3501056
                   }
               ],
-    "version":  "20260925041606"
+    "version":  "20260925052423"
 }
