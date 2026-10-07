@@ -1,35 +1,35 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-07 05:41:51",
+    "updated_at":  "2026-10-07 06:08:00",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "4C2B38FBB2D0CFFB567CA3EE220BEEA347A06A7EDBA8FF3B8D6BAB50D66A60CF",
-                      "size":  2619048
+                      "sha256":  "795700F86D7373AA4CF3D66A45FFDEB65A77A8756871534F590E98D8FA30F22F",
+                      "size":  2619344
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "336ED84115C8DDDE021AA66D1750CC494983DDF6D22E6ED9AA9B6C6C6D9543FE",
+                      "sha256":  "AA7201A5D9973DCE4CCEACC137B619F51DDABC0AD9A7B85B8FAA59331A8E4173",
                       "size":  12048
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "B820286F30D4B0E4FD0C351953131C60377FDB4F5084B31124C3043B313B1534",
-                      "size":  14240374
+                      "sha256":  "9BD424FBFEF825385D9EFB64CAFAC50BAAEFEFBE9AE57E71B90EDBE7606FC595",
+                      "size":  14240814
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "0059A8F9486C7A93485FC1B2D2B412F25ED98BB7AE3C05270177968D1305C9FF",
-                      "size":  28320
+                      "sha256":  "1B0CE335BF07630C7550AC5E763A7441ABBB63702D57855436257E9A3671FB8D",
+                      "size":  28312
                   },
                   {
                       "path":  "pack/uiscript.epk",
-                      "sha256":  "E3FFA1383400F1317B29BB221596E993AFB9355DB329C1898024D0EE40E6DCF6",
-                      "size":  188770
+                      "sha256":  "9CBF70D0223F7BBC1FCE25ACB74D91BDCB848D8A9AE0F2D38F6161BA97CE195F",
+                      "size":  188930
                   },
                   {
                       "path":  "pack/uiscript.eix",
-                      "sha256":  "684513968E87D58FA0E94932CD75322A193E8E9E38A222DCADBDB37562D5EA95",
+                      "sha256":  "C1B91DD4D6D74EBD843DC10FF6A7986B6E0F541562732E81A6602F7831945C79",
                       "size":  5080
                   },
                   {
@@ -94,9 +94,9 @@
                   },
                   {
                       "path":  "Metin2Distribute.exe",
-                      "sha256":  "0E361E328D52958CBD94C82A14298DD7662E7E13867F874AC57CBD6BDA4FCD7B",
-                      "size":  3501056
+                      "sha256":  "D677875A4194B584F5E1E0838CB071C4BCD448FDA8106A05A0515D229CD18107",
+                      "size":  3502592
                   }
               ],
-    "version":  "20261007054151"
+    "version":  "20261007060800"
 }
