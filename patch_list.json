@@ -1,36 +1,36 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-07 06:08:00",
+    "updated_at":  "2026-10-07 06:21:50",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "795700F86D7373AA4CF3D66A45FFDEB65A77A8756871534F590E98D8FA30F22F",
-                      "size":  2619344
+                      "sha256":  "D9F6DB9E9C16A21667F3554EDF6655F7526300B5C3BD4FCAF9EAC084A2B295EB",
+                      "size":  2619600
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "AA7201A5D9973DCE4CCEACC137B619F51DDABC0AD9A7B85B8FAA59331A8E4173",
+                      "sha256":  "93D8BD27046E07C9009CC4CF0B57FD2A421AD484FDA07B97A2A2A49389DF7860",
                       "size":  12048
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "9BD424FBFEF825385D9EFB64CAFAC50BAAEFEFBE9AE57E71B90EDBE7606FC595",
-                      "size":  14240814
+                      "sha256":  "D811437F8CE0A45EEE6191885C7B86873282CF80742BA4E9B89B9218F7F262BA",
+                      "size":  14240830
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "1B0CE335BF07630C7550AC5E763A7441ABBB63702D57855436257E9A3671FB8D",
-                      "size":  28312
+                      "sha256":  "D8BBD7D51B57485F5F5DD8735453CED8F53F56FDF6A4AFDA5C2F89BFFE30C3FD",
+                      "size":  28328
                   },
                   {
                       "path":  "pack/uiscript.epk",
-                      "sha256":  "9CBF70D0223F7BBC1FCE25ACB74D91BDCB848D8A9AE0F2D38F6161BA97CE195F",
-                      "size":  188930
+                      "sha256":  "FD2B256C1B850E95F370FE83883085FAFE27C0468DE63B5DEE7A13C51A770FD2",
+                      "size":  188874
                   },
                   {
                       "path":  "pack/uiscript.eix",
-                      "sha256":  "C1B91DD4D6D74EBD843DC10FF6A7986B6E0F541562732E81A6602F7831945C79",
-                      "size":  5080
+                      "sha256":  "97E3C69F55FB078FB0FC5A7FF292A810EBFEB588DCA1A4039DAA369D52B689F8",
+                      "size":  5096
                   },
                   {
                       "path":  "pack/effect.epk",
@@ -98,5 +98,5 @@
                       "size":  3502592
                   }
               ],
-    "version":  "20261007060800"
+    "version":  "20261007062150"
 }
