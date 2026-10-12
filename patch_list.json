@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-12 06:06:43",
+    "updated_at":  "2026-10-12 06:16:11",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -51,6 +51,46 @@
                       "path":  "pack/etc.eix",
                       "sha256":  "A655F7B2AB37F12A164288F0971429D0BC04DB281305128DD0B72A5D3F58B8B1",
                       "size":  111288
+                  },
+                  {
+                      "path":  "pack/metin2_patch_dragon_rock.epk",
+                      "sha256":  "4E3C09F66B2B3FA1EDF7DE00EF75D801A274942F95CD1B5909C8A7DAA0AE80C7",
+                      "size":  25130795
+                  },
+                  {
+                      "path":  "pack/metin2_patch_dragon_rock.eix",
+                      "sha256":  "FE258C1F44C62789F82D0A43E8C579B43D5295893645F6EAD60D513090F0BD1C",
+                      "size":  45368
+                  },
+                  {
+                      "path":  "pack/OutdoorA1.epk",
+                      "sha256":  "B4A98BE226963C9C183CC8C292B347CBAEF9D457F5BBFDDF0CE0A355BBA61F32",
+                      "size":  2043185
+                  },
+                  {
+                      "path":  "pack/OutdoorA1.eix",
+                      "sha256":  "7D23C1DFB30DAF5941FB7BAA6ACFDD60A4B9309415A1E41FC0C3198D0EC5C709",
+                      "size":  5848
+                  },
+                  {
+                      "path":  "pack/OutdoorB1.epk",
+                      "sha256":  "E57641D96A8BF7204179E5CA373C474AF4E59382E505593C903AD3B8A32E6C3D",
+                      "size":  2418739
+                  },
+                  {
+                      "path":  "pack/OutdoorB1.eix",
+                      "sha256":  "8B160D1045637B4E43E4F9AE1CF3A3E2BBE58D3C8308C2D2669930DD30A092C9",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "pack/OutdoorC1.epk",
+                      "sha256":  "7971316B0EED1542A2D81D7472E129410BC5C5B6DAC3C8FD8FE5EFB8F351908F",
+                      "size":  1609622
+                  },
+                  {
+                      "path":  "pack/OutdoorC1.eix",
+                      "sha256":  "2A79945530121C07376433B2CA4D2549B423C4746134948C9EAF3F8A623B466B",
+                      "size":  5792
                   },
                   {
                       "path":  "pack/icon.epk",
@@ -108,5 +148,5 @@
                       "size":  3502592
                   }
               ],
-    "version":  "20261012060643"
+    "version":  "20261012061611"
 }
