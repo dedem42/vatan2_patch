@@ -1,15 +1,15 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-15 08:37:30",
+    "updated_at":  "2026-10-15 08:56:31",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "33594AFD86E37A336455B94981C4D08A4283A0BA97FE6BCF6AA5892AECA79B6D",
-                      "size":  2636936
+                      "sha256":  "C6A72AB399843229CC97D57AA96074A02B32D6C748DA72C440A7170397A30DF3",
+                      "size":  2636840
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "2B2208E0DFD56652936537274C0BD1579C59DC43CEF4D27067E3A6D2C3F6F21B",
+                      "sha256":  "B30308AC25E04AB18600266AD6156F7625A065B47E166CEDB1CE28450A9FB6B1",
                       "size":  12088
                   },
                   {
@@ -44,13 +44,13 @@
                   },
                   {
                       "path":  "pack/etc.epk",
-                      "sha256":  "8D13E14A0DC99DB8D72D8D6FDB13AD1EB4F05F027CA48FF36AB1694FC00BCDB1",
-                      "size":  46478834
+                      "sha256":  "F1FDEFE98DCB8A8A68292CD7C23F620118928C7D12F7096EBDFC6B9602F97175",
+                      "size":  46476628
                   },
                   {
                       "path":  "pack/etc.eix",
-                      "sha256":  "41E443B0B31A161A67EDCB493DCF0D58A575D15D8CDE0D1464ACC7D60CDD4C68",
-                      "size":  111816
+                      "sha256":  "C96ACA82572165719E1EEC3A8BF6159BD0A6EFE0B0BBB94F8E011E77C8D6145E",
+                      "size":  111296
                   },
                   {
                       "path":  "pack/metin2_patch_dragon_rock.epk",
@@ -148,5 +148,5 @@
                       "size":  3499520
                   }
               ],
-    "version":  "20261015083730"
+    "version":  "20261015085631"
 }
