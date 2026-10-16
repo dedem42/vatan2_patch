@@ -1,26 +1,26 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-16 21:44:01",
+    "updated_at":  "2026-10-16 22:11:02",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "B225EF818D6B5781743C0BF57225A4DD23A61CFD59F1381020D82764427FF646",
-                      "size":  2639720
+                      "sha256":  "D08150F330101004D0B4072E513F4F4FEFAC34009586BE1F07A38DE50F4817BB",
+                      "size":  2639704
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "0A7DE71694AC308A77B7F0BE939B7787AE01BC02D425ACF1ACD195535D6FBBC0",
+                      "sha256":  "E812DD72222EE562B07A20D2FD752BF078F199FCE754B8BA3B3B786E019354F8",
                       "size":  12088
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "021C84BC5185ACDB375A76E5E81461E25DD95CF82D65B9BC075EAB633D3AEE9E",
-                      "size":  14243596
+                      "sha256":  "6A625BED74885EE7C405DC136EB5AD0AD85421E387DD4AABA8B74B7284A91497",
+                      "size":  14243572
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "2E578929D812D36A5D924A58D8E62CB5CFD2562DF1180CDC37B3E201D0DD7F16",
-                      "size":  28328
+                      "sha256":  "B97D72F67CD263D619235DD536327186F570BC3F704D3FC2C9DE883DF2C8ABD4",
+                      "size":  28336
                   },
                   {
                       "path":  "pack/uiscript.epk",
@@ -44,13 +44,13 @@
                   },
                   {
                       "path":  "pack/etc.epk",
-                      "sha256":  "F1FDEFE98DCB8A8A68292CD7C23F620118928C7D12F7096EBDFC6B9602F97175",
-                      "size":  46476628
+                      "sha256":  "531D00D5D2FB4345C26A684B185E1AD387D6C898FED56797CC6110D3CD71BA49",
+                      "size":  46480331
                   },
                   {
                       "path":  "pack/etc.eix",
-                      "sha256":  "C96ACA82572165719E1EEC3A8BF6159BD0A6EFE0B0BBB94F8E011E77C8D6145E",
-                      "size":  111296
+                      "sha256":  "E45C8119DEAF736D070FE21691B22365393D0487B88925F6E9F8881A487E92CA",
+                      "size":  111280
                   },
                   {
                       "path":  "pack/metin2_patch_dragon_rock.epk",
@@ -148,5 +148,5 @@
                       "size":  3499008
                   }
               ],
-    "version":  "20261016214401"
+    "version":  "20261016221102"
 }
