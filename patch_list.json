@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-18 00:35:58",
+    "updated_at":  "2026-10-18 00:53:57",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -144,9 +144,9 @@
                   },
                   {
                       "path":  "Metin2Distribute.exe",
-                      "sha256":  "B71EDA493F84519F73359191F0B0F475C13857837B00AEAE6BB41B8CFCB3060A",
+                      "sha256":  "798CF3F6011D3523446867CBA10B4830BE8803158F1743B81183CFDB76EC399A",
                       "size":  3499520
                   }
               ],
-    "version":  "20261018003558"
+    "version":  "20261018005357"
 }
