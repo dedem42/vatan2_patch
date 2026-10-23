@@ -1,16 +1,16 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-23 04:30:25",
+    "updated_at":  "2026-10-23 04:37:24",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "C08398D07E1771D236AE81FB48EED8E2481C8692B90275B7272563C5EC86444C",
-                      "size":  2655568
+                      "sha256":  "FCAD68BBE9919AF3B02FCC437726CD37851AA31A23098A99EE1BB08634BC8881",
+                      "size":  2654408
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "1503EC2047C4432D54A1D75569385615E3DB669EB2A781EDCC7F7D9C0673FB00",
-                      "size":  12120
+                      "sha256":  "6C115CCD1D0A8511028E7563EE0A7EC754C65CE6CCCAC2DFCFAF72E8B4A4E2F7",
+                      "size":  12112
                   },
                   {
                       "path":  "pack/locale_tr.epk",
@@ -24,13 +24,13 @@
                   },
                   {
                       "path":  "pack/uiscript.epk",
-                      "sha256":  "208138F39E6EBD90FD2192E8F48CB9B42ECA6442E6296891427844655BAF3B58",
-                      "size":  370940
+                      "sha256":  "662965961F35DD0732009AE688D38CA713A34431B124BA474D3BDC78B668E32F",
+                      "size":  373052
                   },
                   {
                       "path":  "pack/uiscript.eix",
-                      "sha256":  "20277C263E22D0FF3F8FC01FB794357D69C6590F14244C80B4AD5345D9D0220C",
-                      "size":  5192
+                      "sha256":  "45094FC952AD5A6A1BE62E244D73A9730F50818D2294638CDA2B0051FD99F642",
+                      "size":  5224
                   },
                   {
                       "path":  "pack/effect.epk",
@@ -148,5 +148,5 @@
                       "size":  3165696
                   }
               ],
-    "version":  "20261023043025"
+    "version":  "20261023043724"
 }
