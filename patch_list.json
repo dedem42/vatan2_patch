@@ -1,16 +1,16 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-25 06:11:43",
+    "updated_at":  "2026-10-25 19:11:31",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "B6D38B9BFB184CFBC2B11523D8EE770E06EDE09F3FAE06EF72406A178EEA8720",
-                      "size":  2698032
+                      "sha256":  "16C9567FA9DA8D392924583DE3E93FF4147D57E63C87B72B5F35D63258BF56C9",
+                      "size":  2716693
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "AFB2967BCE047FA5E80478770371FE89B3E8C1FCA03C586E086D6233640748A1",
-                      "size":  12240
+                      "sha256":  "9AAC82EB6404F8C26ACED7F7069CEDBB79EE844B2BF4BFC9718B47646552CFE9",
+                      "size":  12328
                   },
                   {
                       "path":  "pack/locale_tr.epk",
@@ -24,13 +24,13 @@
                   },
                   {
                       "path":  "pack/uiscript.epk",
-                      "sha256":  "330BC89415E101976F8C9BB8738C1272030FDBF6EBCFA575CDBFF4879B95E198",
-                      "size":  373052
+                      "sha256":  "B487AE2A5EFAA7767806C229AC5448F135AE3C0790CBEF8005477F4D76FC9643",
+                      "size":  374476
                   },
                   {
                       "path":  "pack/uiscript.eix",
-                      "sha256":  "5B705F1B13EDE5720552C0EEE22688C2771931B4BA29FAA1A2EA59690E54D688",
-                      "size":  5224
+                      "sha256":  "9D3D9128F75E7D94C04AE3ABFF24F3868669A5D69FD59D713699DAD17EBEB390",
+                      "size":  5256
                   },
                   {
                       "path":  "pack/effect.epk",
@@ -158,5 +158,5 @@
                       "size":  3165696
                   }
               ],
-    "version":  "20261025061143"
+    "version":  "20261025191131"
 }
