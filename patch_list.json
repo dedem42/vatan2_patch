@@ -1,16 +1,16 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-25 22:20:57",
+    "updated_at":  "2026-10-25 23:08:02",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "379B701F7BF21D6C3BF3539B1A348A028CD01D4EDC4FD42C206AC9AD1F35EEDC",
-                      "size":  5837863
+                      "sha256":  "7B3200EF04F5133604C20352DE0F2C3A436CB20F1E56E275E144EE007AE8DB73",
+                      "size":  5796509
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "38146842C1ADB4C89F3A00FD42F9DFF60492FB7A2445A1561FA1C582806EF793",
-                      "size":  13344
+                      "sha256":  "96A48EA295B794C10A18111CA5C07F7F3009996762A05D1F05E7778BAB557EA9",
+                      "size":  13520
                   },
                   {
                       "path":  "pack/locale_tr.epk",
@@ -54,13 +54,13 @@
                   },
                   {
                       "path":  "pack/patch6.epk",
-                      "sha256":  "A9DCEDAE73930D6FFEB555F31E31FB8496CBB2191995A9AF90A02B4A7CFEB5DA",
-                      "size":  30124674
+                      "sha256":  "7928E622BD525FB944D8C3F01279833B7532BB7EC67595E6F917CDAAFA2811AF",
+                      "size":  30074444
                   },
                   {
                       "path":  "pack/patch6.eix",
-                      "sha256":  "825DBA195F37413EDD976B9DC87C352395225529E61BC55C7795375FBC73F2E8",
-                      "size":  50600
+                      "sha256":  "8E97C955D84A7A62C573D859322AF1495D1CE27C010BFB5447E78AE0C36E8299",
+                      "size":  50664
                   },
                   {
                       "path":  "pack/metin2_patch_dragon_rock.epk",
@@ -158,5 +158,5 @@
                       "size":  3165696
                   }
               ],
-    "version":  "20261025222057"
+    "version":  "20261025230802"
 }
