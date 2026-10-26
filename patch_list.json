@@ -1,16 +1,16 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-26 07:01:24",
+    "updated_at":  "2026-10-26 07:07:51",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "EDA39723AE4ED0F79F34DD212C7E0758DC933174A27C334ED63D95A5DB05020B",
-                      "size":  6393144
+                      "sha256":  "3FFD2C79F63EF5317EF2CDC229F7D7EC8F483BF9381508AF23AD6234AA036A98",
+                      "size":  6393232
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "64C5B4F2475D06AA41B48809C5A05AB991D9A40DA2029DE6DC05F59CA6C2A9D4",
-                      "size":  13672
+                      "sha256":  "9280EA68DDD259ACB2EC34B2DDB094C5327B79CB718E70507B268F13D6D2EDE5",
+                      "size":  13680
                   },
                   {
                       "path":  "pack/locale_tr.epk",
@@ -159,9 +159,9 @@
                   },
                   {
                       "path":  "Metin2Distribute.exe",
-                      "sha256":  "DA7257590904DB8143AD29BE38D7ABB692996889D81075DC1C6A49B13717AFD1",
+                      "sha256":  "731B3B65870AA178E42EA5685504AE1139F9B9CE404F9E953FDEC831CF0A9E72",
                       "size":  3442176
                   }
               ],
-    "version":  "20261026070124"
+    "version":  "20261026070751"
 }
