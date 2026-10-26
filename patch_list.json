@@ -1,25 +1,25 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-26 20:50:52",
+    "updated_at":  "2026-10-26 21:03:22",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "08B8408D4ECBD838497C57EF0F6832394DE474302A7A4356D178D5222A9AF355",
-                      "size":  6397420
+                      "sha256":  "02777E048D024D877299EDB5498112417A689B3BC666378E35F5809CF8795674",
+                      "size":  6397340
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "018EC642BC96D46673256EA55661B71698249D1EDDD146BAD28578751EFFDEB6",
-                      "size":  13776
+                      "sha256":  "743E9B3488020182ABEBF5FF7BA12BCB68A8C916DAB04DE0538803FDF52F0370",
+                      "size":  13784
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "E6A80D21F47F2CF6F2EBFBB68119867AB1F6C4BA2E01122F8A1582F015778D55",
+                      "sha256":  "333608D51EA481F9C3AB0DB19864512E741F1FDBF0668206F363A63EACABE436",
                       "size":  14250358
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "0BBEC0CC183C0481113EDC7E52BB022A6646CB4E3BE06D53C7FA037FBD8610AA",
+                      "sha256":  "52B5EEDBD0C946E1783351B814A974D2E152F9B6E7598C5DEF29484B13AF1896",
                       "size":  28368
                   },
                   {
@@ -159,9 +159,9 @@
                   },
                   {
                       "path":  "Metin2Distribute.exe",
-                      "sha256":  "24A398B9912B2D20A909746E2197422A8C07993B6CE531ED247743A060E143EA",
-                      "size":  3446272
+                      "sha256":  "BDD9FBCF05CDDEB8D64CDE52336FC466BA94D337845C47724787BADB8CE0B48D",
+                      "size":  3445760
                   }
               ],
-    "version":  "20261026205052"
+    "version":  "20261026210322"
 }
