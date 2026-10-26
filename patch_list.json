@@ -1,25 +1,25 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-26 21:29:34",
+    "updated_at":  "2026-10-26 22:52:35",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "02777E048D024D877299EDB5498112417A689B3BC666378E35F5809CF8795674",
-                      "size":  6397340
+                      "sha256":  "017C20733E983B065E0513095AFFEB21450EBBEAE9BB0BD76F6E01338502321B",
+                      "size":  6395956
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "743E9B3488020182ABEBF5FF7BA12BCB68A8C916DAB04DE0538803FDF52F0370",
+                      "sha256":  "86DD8E7F722B2363BFAB06EE6BF9779E567E33F30F64A694A7A93EAB8EBDC127",
                       "size":  13784
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "333608D51EA481F9C3AB0DB19864512E741F1FDBF0668206F363A63EACABE436",
-                      "size":  14250358
+                      "sha256":  "438465ED4458926C4797A4EB32C8A903A34C9D6383E847EE2DB8FAE09A1E3CA8",
+                      "size":  14250334
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "52B5EEDBD0C946E1783351B814A974D2E152F9B6E7598C5DEF29484B13AF1896",
+                      "sha256":  "631B066C679B683A917D5DC6D54EE8CCAAD5B8A1C63D5EAEF43B1C3916DA199D",
                       "size":  28368
                   },
                   {
@@ -163,5 +163,5 @@
                       "size":  3445760
                   }
               ],
-    "version":  "20261026212934"
+    "version":  "20261026225235"
 }
