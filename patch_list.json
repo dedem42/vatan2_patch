@@ -1,25 +1,25 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-26 20:32:58",
+    "updated_at":  "2026-10-26 20:50:52",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "0F3DD3D14B75F9234609567FEC2329D78BA296C1267035CD469CEA8EB31785C3",
-                      "size":  6395688
+                      "sha256":  "08B8408D4ECBD838497C57EF0F6832394DE474302A7A4356D178D5222A9AF355",
+                      "size":  6397420
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "66D0D73315F77BD847F4FBC8ACD8748B1C8260825C2BD551E8C4F81A648D1547",
-                      "size":  13688
+                      "sha256":  "018EC642BC96D46673256EA55661B71698249D1EDDD146BAD28578751EFFDEB6",
+                      "size":  13776
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "8D517540B40A9E0495D75D4B1A9367998F3F78F5AB096EB30867933636B34DC7",
-                      "size":  14250294
+                      "sha256":  "E6A80D21F47F2CF6F2EBFBB68119867AB1F6C4BA2E01122F8A1582F015778D55",
+                      "size":  14250358
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "0AEA0DC9E80011E15F931EC72C949BB906CCF15D62AE7B70C1D1FDC0286A4683",
+                      "sha256":  "0BBEC0CC183C0481113EDC7E52BB022A6646CB4E3BE06D53C7FA037FBD8610AA",
                       "size":  28368
                   },
                   {
@@ -159,9 +159,9 @@
                   },
                   {
                       "path":  "Metin2Distribute.exe",
-                      "sha256":  "52F99CA987FE671F3932A761F4829F9944F85C413038F2AED150EF1F2CD23115",
-                      "size":  3445248
+                      "sha256":  "24A398B9912B2D20A909746E2197422A8C07993B6CE531ED247743A060E143EA",
+                      "size":  3446272
                   }
               ],
-    "version":  "20261026203258"
+    "version":  "20261026205052"
 }
