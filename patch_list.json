@@ -1,26 +1,26 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-27 20:59:37",
+    "updated_at":  "2026-10-28 00:54:49",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "A71654ED511EB4C69F4222CED47F7E76A2F294CF6A51B3CDAECF513FADAD86E1",
-                      "size":  6396164
+                      "sha256":  "B35723852DDACD25E1DB5E6D9C95F0A21B14F75FC285FC81FEC22D478567D481",
+                      "size":  6395260
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "A5888F80F6EF52920DF3DAF10D965D3FCFA5CB8CC4358EBA96FCAA27847D6BB6",
-                      "size":  13768
+                      "sha256":  "512ECF266A64A7CF3ED91CAAA5AF3290FD7DB750F4B01A816AB262884EBC6EC3",
+                      "size":  13776
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "EFF0FA08BAE1913A4B40DBA6FEDEB742D81483FEB4E7697386607C95C8405283",
-                      "size":  14262412
+                      "sha256":  "C086D1B72AB06384D43FA4C1B0245ACD80A0BC09C2362AFFB05E82A798F22F4D",
+                      "size":  14262414
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "F6FC351BF8BA650782B3611BCC21A51253AB0839DD288C88BD47AE1A9D727831",
-                      "size":  28376
+                      "sha256":  "15ABF2DDF521C77F5B37CF1113FC0A168D38095EA9DBF5CC7AD587B7506C200E",
+                      "size":  28368
                   },
                   {
                       "path":  "pack/uiscript.epk",
@@ -159,9 +159,9 @@
                   },
                   {
                       "path":  "Metin2Distribute.exe",
-                      "sha256":  "BDD9FBCF05CDDEB8D64CDE52336FC466BA94D337845C47724787BADB8CE0B48D",
+                      "sha256":  "5BB5273CD5C1C6DE0E66AE8ACAE265B42D851B2729774C7A41317A537F198921",
                       "size":  3445760
                   }
               ],
-    "version":  "20261027205937"
+    "version":  "20261028005449"
 }
