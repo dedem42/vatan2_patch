@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-30 02:14:57",
+    "updated_at":  "2026-10-30 02:45:51",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -119,12 +119,12 @@
                   },
                   {
                       "path":  "pack/outdoorgmguildbuild.epk",
-                      "sha256":  "600844DC7188293C7BE7F5DBBC76DF89178794CA3573BB8027C128D17ED8B649",
-                      "size":  55568
+                      "sha256":  "04200EAF9F41FA0F589865F9995629F44514508D5FD33DF9D7390EE90DEE0293",
+                      "size":  16289
                   },
                   {
                       "path":  "pack/outdoorgmguildbuild.eix",
-                      "sha256":  "F51AF7E1D294DC952A7548A87E2BF9E095C34A06AEEB736CF038068ECFE0647F",
+                      "sha256":  "04F80D5A9D756F270BD6B057079288A274551B1410A0225E44EDCF9607607B71",
                       "size":  512
                   },
                   {
@@ -188,5 +188,5 @@
                       "size":  3446272
                   }
               ],
-    "version":  "20261030021457"
+    "version":  "20261030024551"
 }
