@@ -1,16 +1,16 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-30 01:31:29",
+    "updated_at":  "2026-10-30 02:14:57",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "9C6F8F87A14AD97D8E0C9E47A08B3E1B9BB5D85C9AFF9294A39EEE450B222449",
-                      "size":  8555221
+                      "sha256":  "8D68CA5D69088ABC3C77B147D5632D927F3A7920C7734E41DE021312E084D3A1",
+                      "size":  8555261
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "0739A32E6089CFFB41EB71C9CD06BF62DC709E158F6900FD27BD298EF4D7BA2F",
-                      "size":  14992
+                      "sha256":  "2F81563E0122C170B0F7F28EDB735267D6327FB0AA98FC34471E0094D35D471B",
+                      "size":  15000
                   },
                   {
                       "path":  "pack/locale_tr.epk",
@@ -118,6 +118,16 @@
                       "size":  5792
                   },
                   {
+                      "path":  "pack/outdoorgmguildbuild.epk",
+                      "sha256":  "600844DC7188293C7BE7F5DBBC76DF89178794CA3573BB8027C128D17ED8B649",
+                      "size":  55568
+                  },
+                  {
+                      "path":  "pack/outdoorgmguildbuild.eix",
+                      "sha256":  "F51AF7E1D294DC952A7548A87E2BF9E095C34A06AEEB736CF038068ECFE0647F",
+                      "size":  512
+                  },
+                  {
                       "path":  "pack/icon.epk",
                       "sha256":  "8A495D624FC218677F3F03CB6EDCBA6856DFCFF60AB037E4D17E614957613B87",
                       "size":  9565232
@@ -178,5 +188,5 @@
                       "size":  3446272
                   }
               ],
-    "version":  "20261030013129"
+    "version":  "20261030021457"
 }
