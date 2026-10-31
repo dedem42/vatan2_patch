@@ -1,25 +1,25 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-10-31 06:28:26",
+    "updated_at":  "2026-10-31 07:26:11",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "FDB6034BE22D7C72A8EEE83B9BBEA1CD8BE7B7BE6C5ABA4D67F426ADB0F6498C",
-                      "size":  8730569
+                      "sha256":  "727270E72F72A8151BF228AA6A44EA9C6AA751D4C5A0AD95A5BFA1D1AFC80E54",
+                      "size":  8730137
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "5DCB56DCAAA9CFFE6FB1CCD74AE4B829073170AE48FB0DE7032EF75A2D380B97",
-                      "size":  15152
+                      "sha256":  "860CF8FA4DAC17E2ABE8E73D40BFAA5A6DB45A88DD5A140BD61D4F6DB6DE4D66",
+                      "size":  15144
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "87D6A77D9A5CCE01AFDA245880FB1070D7A479E410A2BF1D5E0878D49A48349D",
-                      "size":  14192740
+                      "sha256":  "74AE85392B72D4F2F297E8044034CDF0CA78CC767A61C772A40E14BECA162ADF",
+                      "size":  14192500
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "6CDBDC30F450517BED0F27048C982BF781F1A6510DFED3EB8739763D46E40A1A",
+                      "sha256":  "9239083B6A8F7642F6E66D6135F72888825C1BD7717EB4586E25109D387BD4D6",
                       "size":  28184
                   },
                   {
@@ -184,9 +184,9 @@
                   },
                   {
                       "path":  "Metin2Distribute.exe",
-                      "sha256":  "048C982D4D5A0C2398B1B2A4B00BAB2B7DA530981A567203206DACEDF7EE9618",
+                      "sha256":  "70529E8DB034AD5E2B547FD43D4E6A164BB506699CBD843A22476583D99115B9",
                       "size":  3446272
                   }
               ],
-    "version":  "20261031062826"
+    "version":  "20261031072611"
 }
