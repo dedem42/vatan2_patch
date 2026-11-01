@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-01 04:22:28",
+    "updated_at":  "2026-11-01 04:44:29",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -188,5 +188,5 @@
                       "size":  3446272
                   }
               ],
-    "version":  "20261101042228"
+    "version":  "20261101044429"
 }
