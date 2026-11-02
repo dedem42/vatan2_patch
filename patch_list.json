@@ -1,15 +1,15 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-02 00:34:42",
+    "updated_at":  "2026-11-02 01:22:40",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "B8C130F8C160F991671BD692F361B696CD94BB4660201ADDCB0470252E25468D",
+                      "sha256":  "D386B2DF6F7B77D8CBF9FA5B95C4077503F3F72E5310DED00EA15224C313A90F",
                       "size":  8730073
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "6D7C951C32CB86CF8ADB573C57570A47C268CBEB99338B6F8021C889D1F2701A",
+                      "sha256":  "1ECF551A61BB6CCA289A37BA2C9FD27DB97A7B733259DF3B648B2AB6C0F9B5DA",
                       "size":  15152
                   },
                   {
@@ -34,13 +34,13 @@
                   },
                   {
                       "path":  "pack/effect.epk",
-                      "sha256":  "E310A121C9EC11A8E6613D6693D887D06209E644C95CDB0CB6BCE6F0F3E3728E",
-                      "size":  4862369
+                      "sha256":  "8625C83B7D8FA5BA79F3C10BC8D311E241E4F061072A72AECD1619BDCA42874C",
+                      "size":  4862695
                   },
                   {
                       "path":  "pack/effect.eix",
-                      "sha256":  "C3E6BB11901B296736210BF05DEE2A49A5D7EDA1683A19FF9F66EC1856E7A327",
-                      "size":  27968
+                      "sha256":  "74F89DEAC613CC2A19DBA5C3F2B1FD5EE062754C08B5E9CF1882AA7DE29E118F",
+                      "size":  27992
                   },
                   {
                       "path":  "pack/etc.epk",
@@ -184,9 +184,9 @@
                   },
                   {
                       "path":  "Metin2Distribute.exe",
-                      "sha256":  "70529E8DB034AD5E2B547FD43D4E6A164BB506699CBD843A22476583D99115B9",
+                      "sha256":  "FC97EDD6158BF117B18F3344D21A89682ECEA94D1F3DDB9EA0004BC7B31F8AE5",
                       "size":  3446272
                   }
               ],
-    "version":  "20261102003442"
+    "version":  "20261102012240"
 }
