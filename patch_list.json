@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-03 07:45:01",
+    "updated_at":  "2026-11-03 21:24:44",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -69,13 +69,13 @@
                   },
                   {
                       "path":  "pack/patch6.epk",
-                      "sha256":  "31AAE6EF906AC643B38B07AD0AB92A5C76D8165724C2C593C7F3BDC83A364D70",
-                      "size":  32446745
+                      "sha256":  "72B50A3C5A1E57A3F9D66176572678E6202F423B6D3C6725A7E197DED1541020",
+                      "size":  32468075
                   },
                   {
                       "path":  "pack/patch6.eix",
-                      "sha256":  "0BA5B03BC38E1B51F85A6B65036F1497612C1F1560E4FE0B399C397B8CEB7A8A",
-                      "size":  55520
+                      "sha256":  "1646075B5C55C3D39B811946E9E8E651493708D96E5A27D7E434FF2FAB3D8DC5",
+                      "size":  55720
                   },
                   {
                       "path":  "pack/metin2_patch_dragon_rock.epk",
@@ -188,5 +188,5 @@
                       "size":  3446272
                   }
               ],
-    "version":  "20261103074501"
+    "version":  "20261103212444"
 }
