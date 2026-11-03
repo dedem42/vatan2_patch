@@ -1,15 +1,15 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-03 06:18:52",
+    "updated_at":  "2026-11-03 06:30:28",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "D551B3881E5005B71B870BC257661CE86B3AB0EBE0752C46B0F436279F699868",
-                      "size":  8733897
+                      "sha256":  "9545AC473CDA37FFBE1F23E45AE92784B5BE5D88CF218DA45E93F7E74B4FBCFC",
+                      "size":  8733929
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "DD21856BFB42D6A80FB289CCE8B35A2C277E51B31BAC070426C97EBC46A65858",
+                      "sha256":  "A234D587EE0B32DBB6FF15C3A46F19E5150A23FBA73D43EFA5E872FBBDB4CB51",
                       "size":  15208
                   },
                   {
@@ -24,12 +24,12 @@
                   },
                   {
                       "path":  "pack/uiscript.epk",
-                      "sha256":  "990821FBE54469AA00732C2F488AA4F21C90143DB0A83442BDA45FABC6D72A8C",
-                      "size":  374775
+                      "sha256":  "AC066CAA9540FE99A55057EFB60DBA914977304D0877746E493FCFD8ED902663",
+                      "size":  374767
                   },
                   {
                       "path":  "pack/uiscript.eix",
-                      "sha256":  "B53C56F5D11DC3C8EA4547CA089463CD03544FFFFF35774BC6997D4AA78CC599",
+                      "sha256":  "0C7FE2C0881B269A34F1982B6682217381B96F44FA68748F372787DFE6947C95",
                       "size":  5176
                   },
                   {
@@ -69,12 +69,12 @@
                   },
                   {
                       "path":  "pack/patch6.epk",
-                      "sha256":  "34676B53B092369A1547BAFBB26B53E5D171160DF2CAE0DE54828983B1704B74",
-                      "size":  32414877
+                      "sha256":  "7B03A5368AC77C05FDE8B7389C1F63E7512F55F09F953DE8285A8D76FF58669F",
+                      "size":  32429397
                   },
                   {
                       "path":  "pack/patch6.eix",
-                      "sha256":  "FEADC6559FFA5D0BCCE7F59D6D606E841A8425F694275913C72CBBB4CEF090F1",
+                      "sha256":  "FC46D5B7E015E4D6286A999C700A8A697042629565DCB28DD6776D3E9662F191",
                       "size":  55392
                   },
                   {
@@ -188,5 +188,5 @@
                       "size":  3446272
                   }
               ],
-    "version":  "20261103061852"
+    "version":  "20261103063028"
 }
