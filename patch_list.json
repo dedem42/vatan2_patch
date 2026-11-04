@@ -1,26 +1,26 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-04 00:39:09",
+    "updated_at":  "2026-11-04 02:08:11",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "BD5AF5C9F0EFC54EEAE6941BD0F9485F02529C846170CA9701E21AFD0E98F72F",
-                      "size":  8734041
+                      "sha256":  "ADE1F9A4CD280DD1DFFFF6633CE65465FD5E6523027897B436AB13A9B22C99D7",
+                      "size":  8734713
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "7DD6A22B5408602D66E63B1260BDA5519C72483E98C31778AB6BF353542B298B",
-                      "size":  15208
+                      "sha256":  "82B749A7ED17F16476AB9D9C5D00EB847BFABAF7740F243028D55BCFB72D334D",
+                      "size":  15216
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "7AC9105C5A546D6EA125902F937C7E3B72A8F5F88ABC21393744F70E22AA60B8",
-                      "size":  14193236
+                      "sha256":  "B2F7BB7DAF2CCB65ED3E7972009563D62098F40796C2609D4819F699AEF480EC",
+                      "size":  14193732
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "8AC22D0CF6CF976E096090F098B86A738BEAE7255FC7D011D142DE82D29BD474",
-                      "size":  28192
+                      "sha256":  "12FD67EA83498A54C615EDBA6749F5C53FF6C6DA6A143854E31E540E89C43FBC",
+                      "size":  28176
                   },
                   {
                       "path":  "pack/uiscript.epk",
@@ -129,13 +129,13 @@
                   },
                   {
                       "path":  "pack/icon.epk",
-                      "sha256":  "8A495D624FC218677F3F03CB6EDCBA6856DFCFF60AB037E4D17E614957613B87",
-                      "size":  9565232
+                      "sha256":  "04B45E8C33E73BD73A9A859DEEC24EE49DD433513CB9C3EBB3BAEB23E73ECC64",
+                      "size":  9572510
                   },
                   {
                       "path":  "pack/icon.eix",
-                      "sha256":  "45A6166C4E6C248CDAB0D089762680E6ECFBEEE12B2B4EC09DBCE73660B1A8E6",
-                      "size":  83384
+                      "sha256":  "608639D68745DC197EF1E933E74705A6AAE633C4C6CCEC1EB2890610997224C2",
+                      "size":  83456
                   },
                   {
                       "path":  "icon/item/72350.tga",
@@ -188,5 +188,5 @@
                       "size":  3445760
                   }
               ],
-    "version":  "20261104003909"
+    "version":  "20261104020811"
 }
