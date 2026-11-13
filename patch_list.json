@@ -1,36 +1,46 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-12 23:12:17",
+    "updated_at":  "2026-11-13 23:13:29",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "7088E4C2190C2045A7EF544174EBF3E99B65CDBDB6701F6C31DEDB1EC7D9AC19",
-                      "size":  8735313
+                      "sha256":  "3B67E0A31AAA8E74F2AE974AB71C4A69A5D757171DBB1992C38BF1B5EDE15067",
+                      "size":  8735049
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "2520747D37F333FF2E8E496DE1A37EBD5E6C1BE645C4006E0D3330687397424B",
-                      "size":  15216
+                      "sha256":  "4FF8E5A3B804596930A765D69CAE1B7266546D7D93D93A0764091CAEB368D097",
+                      "size":  15208
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "0915124A991FA77C1F1A7E5BA666F7EA6F1E59434877203B9D8D08943AB9D9BA",
+                      "sha256":  "E8675ED4AB739E5917AD203C36BB59AA6BC48E71FEEF5CA0EFF8DC8CC4445163",
                       "size":  14264004
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "545DCF7DF88B4F562A3DBDE4B59AFA4ADD88BDBB4EBB64D3633941B417EA3555",
+                      "sha256":  "433FFF1279C75580430DB72AC5BC48E8A67CB1E5BAE38568971553864EE88170",
                       "size":  28360
                   },
                   {
                       "path":  "pack/uiscript.epk",
-                      "sha256":  "15DC0BA40E560409F816422D65B998F586C8911866FC33240AE50E1A6F55814D",
+                      "sha256":  "9256C1DF15BE4DC29AC5CCCCA58828D90F072F385177F2282E6573B739EE41C9",
                       "size":  380190
                   },
                   {
                       "path":  "pack/uiscript.eix",
-                      "sha256":  "8E1E42C08D0E1EF865B44BC872EE5221162B23E9E4CAB7A9D7C0B44274C29B9C",
-                      "size":  5288
+                      "sha256":  "1FFAD7359C8E9F2E6AA9C4D36317D0530B7BFBB4DD4AB9BF4C4C9B4FFD7F0BCB",
+                      "size":  5304
+                  },
+                  {
+                      "path":  "pack/pc.eix",
+                      "sha256":  "56B43A3096578CB819EAC1F0F5E003CED7B2CB3109C983EE3B9CAD89FCEFB123",
+                      "size":  88568
+                  },
+                  {
+                      "path":  "pack/pc2.eix",
+                      "sha256":  "F603BD4D04A8E24E5ED68B72B0036467BB98FD54F5D9AC81CE599E73E942187D",
+                      "size":  55968
                   },
                   {
                       "path":  "pack/effect.epk",
@@ -39,18 +49,18 @@
                   },
                   {
                       "path":  "pack/effect.eix",
-                      "sha256":  "09147B9DCF7B7DD6F0E48E84A8351739E6D1004552DF84DF7E1C67A1915C5FB8",
+                      "sha256":  "33A21F23381B5581A7438F501C58BCFA739F81DB570090F98994AB0D91F143D7",
                       "size":  28304
                   },
                   {
                       "path":  "pack/etc.epk",
-                      "sha256":  "531D00D5D2FB4345C26A684B185E1AD387D6C898FED56797CC6110D3CD71BA49",
+                      "sha256":  "62D50AEDA44B0E0C286385FD52A9BC3003CCAE9F0D1576FA5B8AD437336A783E",
                       "size":  46480331
                   },
                   {
                       "path":  "pack/etc.eix",
-                      "sha256":  "E45C8119DEAF736D070FE21691B22365393D0487B88925F6E9F8881A487E92CA",
-                      "size":  111280
+                      "sha256":  "0A760DBBAA505F0EA4166B82D7B11CF5FF936459939DFAAEC8924DFF7EF0DB15",
+                      "size":  111296
                   },
                   {
                       "path":  "pack/Index",
@@ -64,78 +74,78 @@
                   },
                   {
                       "path":  "pack/offlineshop.eix",
-                      "sha256":  "1FE071BE3E1113257E2BB628708F480DADC6B581BE56A1B96FBB522D9912D237",
+                      "sha256":  "C707CDB5EC5480EBE20B5C1F66A5C42D274475B20A877057C0A5A4B3953C9CC9",
                       "size":  5736
                   },
                   {
                       "path":  "pack/patch6.epk",
-                      "sha256":  "B7952EB7A1C16B02C09106E422A406B000307B0CA349BC4B60311EBCF44E8D9D",
+                      "sha256":  "68E5917901D61A8A8F4BE9E4E01E193B3E94F3CBAABFE8691A7D1EEE37214C4F",
                       "size":  32478265
                   },
                   {
                       "path":  "pack/patch6.eix",
-                      "sha256":  "5D94C2E0F6F084DAE703C4350DC8069C1B97140C8DF2C222094523915A7539CF",
+                      "sha256":  "6E32BECE2A4F9DDFB81366CE3329A30C57D3C8A620D2064353AA6992C925AB14",
                       "size":  55752
                   },
                   {
                       "path":  "pack/metin2_patch_dragon_rock.epk",
-                      "sha256":  "25621B5EF3F47F28AB881F52F0DAFD4C2833A3981CE429CE2DCBDC99F121A57D",
+                      "sha256":  "482FB43DAE6212A9ECDDF9D3B316B1384DBEBA69E4E104C7996A25646F648EC8",
                       "size":  25187151
                   },
                   {
                       "path":  "pack/metin2_patch_dragon_rock.eix",
-                      "sha256":  "B0E4542E58AF3F2B429EB8D794F0A38B22456B9E840F80B4F32F4644A58B1AAF",
-                      "size":  45344
+                      "sha256":  "B47C16568777195C22BA8A4D1D922684B4121A7001062F72303301E5149B7C48",
+                      "size":  45352
                   },
                   {
                       "path":  "pack/OutdoorA1.epk",
-                      "sha256":  "B4A98BE226963C9C183CC8C292B347CBAEF9D457F5BBFDDF0CE0A355BBA61F32",
+                      "sha256":  "2CA1A8C943EE78BAFE0DBFC596838B2FBD572F873B9F2726BA1EF426ABC421AD",
                       "size":  2043185
                   },
                   {
                       "path":  "pack/OutdoorA1.eix",
-                      "sha256":  "7D23C1DFB30DAF5941FB7BAA6ACFDD60A4B9309415A1E41FC0C3198D0EC5C709",
-                      "size":  5848
+                      "sha256":  "D96E365D0BA5E819973C336BB0E8017E259D9F3A74FC9988B4FFF1B76705C856",
+                      "size":  5856
                   },
                   {
                       "path":  "pack/OutdoorB1.epk",
-                      "sha256":  "E57641D96A8BF7204179E5CA373C474AF4E59382E505593C903AD3B8A32E6C3D",
+                      "sha256":  "32ECFC24CA424CDCBCB985E9624608AA3376150C0B3416C8C05A401CDA5182BF",
                       "size":  2418739
                   },
                   {
                       "path":  "pack/OutdoorB1.eix",
-                      "sha256":  "8B160D1045637B4E43E4F9AE1CF3A3E2BBE58D3C8308C2D2669930DD30A092C9",
+                      "sha256":  "CA8DE9288864C3473CA54651D4B251160A854A4959A1C31B530DE121587FDB9B",
                       "size":  6528
                   },
                   {
                       "path":  "pack/OutdoorC1.epk",
-                      "sha256":  "7971316B0EED1542A2D81D7472E129410BC5C5B6DAC3C8FD8FE5EFB8F351908F",
+                      "sha256":  "58D90D2AFE7C74A4B22E13CC18172F256E88AA8D0760711E7574E5C3F68D47C9",
                       "size":  1609622
                   },
                   {
                       "path":  "pack/OutdoorC1.eix",
-                      "sha256":  "2A79945530121C07376433B2CA4D2549B423C4746134948C9EAF3F8A623B466B",
-                      "size":  5792
+                      "sha256":  "35C467C5FC941EDE85B11C55D90363E3CCC77F769B7F4F32DDE41AE1AA2EDBCB",
+                      "size":  5800
                   },
                   {
                       "path":  "pack/outdoorgmguildbuild.epk",
-                      "sha256":  "02FDEF8545AB926D11BB8081B7B2B14863E76303649AF5171FB4B6D4A46245C1",
+                      "sha256":  "B1C4A7D1DC89CF464C7553130BAF958D4BC4AF204F04678558407D20E05AB0EF",
                       "size":  4935
                   },
                   {
                       "path":  "pack/outdoorgmguildbuild.eix",
-                      "sha256":  "A09551618F9A6C1A6483E08399A5E72F516AF279927674FB80F52EA7879C9EED",
-                      "size":  560
+                      "sha256":  "39D9AB1C4D4AEE61FE6AB6A704D1324B814869AF590FFCCBAD672C176B27CBF6",
+                      "size":  576
                   },
                   {
                       "path":  "pack/icon.epk",
-                      "sha256":  "04B45E8C33E73BD73A9A859DEEC24EE49DD433513CB9C3EBB3BAEB23E73ECC64",
+                      "sha256":  "E226C17C6FE60447A025B667216138380DB104C4C6B2EFA5CDE566F637D6F11F",
                       "size":  9572510
                   },
                   {
                       "path":  "pack/icon.eix",
-                      "sha256":  "608639D68745DC197EF1E933E74705A6AAE633C4C6CCEC1EB2890610997224C2",
-                      "size":  83456
+                      "sha256":  "2EE907E2E695535EC75FEB91C568B0C58116737B8D99DBC95A25A3C1F329D24E",
+                      "size":  83472
                   },
                   {
                       "path":  "icon/item/72350.tga",
@@ -188,5 +198,5 @@
                       "size":  3447296
                   }
               ],
-    "version":  "20261112231217"
+    "version":  "20261113231329"
 }
