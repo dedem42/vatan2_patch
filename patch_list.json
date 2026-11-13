@@ -1,16 +1,16 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-13 23:49:42",
+    "updated_at":  "2026-11-13 22:50:11",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "4B952DCE2536F9D87B6F4B1165D91B8B7049C38FBE5684991490A365B8220B79",
-                      "size":  8735049
+                      "sha256":  "B40DCFCE16BAE50714F4309AE778AA65FCBCC5D272AE0274071B6AD459DC129B",
+                      "size":  8735313
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "1EE2B28209B1F8D102A2414EFD1FCA655CC0CF8C69B1AB13C52EC23A75AA5FC9",
-                      "size":  15208
+                      "sha256":  "6AD291E237DF11CBA1113E1C3E9EBB392F7003EF7AE2A860FC012EBB43406341",
+                      "size":  15232
                   },
                   {
                       "path":  "pack/locale_tr.epk",
@@ -138,16 +138,6 @@
                       "size":  576
                   },
                   {
-                      "path":  "pack/models1.eix",
-                      "sha256":  "3495177F7B4DAFC3C775786E51A5B4FB8523F25251C1C3C35ED59D083419B386",
-                      "size":  256648
-                  },
-                  {
-                      "path":  "pack/patches.eix",
-                      "sha256":  "FAC9BDB49CFC60A8F65BECE59EFF3C4F497D52BF1FD3839BA43DFC5EF455BB7E",
-                      "size":  127008
-                  },
-                  {
                       "path":  "pack/icon.epk",
                       "sha256":  "E226C17C6FE60447A025B667216138380DB104C4C6B2EFA5CDE566F637D6F11F",
                       "size":  9572510
@@ -204,9 +194,9 @@
                   },
                   {
                       "path":  "Metin2Distribute.exe",
-                      "sha256":  "87408E1E15E587E9EBC5D4D0953FCF7D823F2E3F626D3575B0162F643C763884",
-                      "size":  3447296
+                      "sha256":  "FCC8F9FCEB0B67A610691F5361B05C35F9966A4FD548E6B9AD75D13061B95B8C",
+                      "size":  3454976
                   }
               ],
-    "version":  "20261113234942"
+    "version":  "20261113225011"
 }
