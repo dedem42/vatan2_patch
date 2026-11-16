@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-16 06:28:07",
+    "updated_at":  "2026-11-16 20:31:00",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -79,13 +79,13 @@
                   },
                   {
                       "path":  "pack/patch6.epk",
-                      "sha256":  "974EEF18015E9B2745CA9600E0ECDEC0F6FB66F2329196740C749A5B3BF6CD28",
-                      "size":  33139492
+                      "sha256":  "D602A8E4E74A4B177172BAA9B4CD04A66B8871405746B81822C44AFBA1F7CC72",
+                      "size":  33149051
                   },
                   {
                       "path":  "pack/patch6.eix",
-                      "sha256":  "845EA80237C2ED1ABAFC67AF55DA9FA7BCFCA0C18DE9378B9FC5B088FEBC34DA",
-                      "size":  57792
+                      "sha256":  "D332F95D39640E4E7AFB262C605A7FAF80A891504FD130640D9988BEF07A326F",
+                      "size":  57960
                   },
                   {
                       "path":  "pack/metin2_patch_dragon_rock.epk",
@@ -143,9 +143,14 @@
                       "size":  256648
                   },
                   {
+                      "path":  "pack/patches.epk",
+                      "sha256":  "B86C6EEF1EF3271B478BC69AED41F90A0D8C31917BB4B71552D469E66F5AB262",
+                      "size":  65467624
+                  },
+                  {
                       "path":  "pack/patches.eix",
-                      "sha256":  "FAC9BDB49CFC60A8F65BECE59EFF3C4F497D52BF1FD3839BA43DFC5EF455BB7E",
-                      "size":  127008
+                      "sha256":  "27F6D38C7DDA900D925590FE843679B8320374BE9996D9A8103431EBEA264C9C",
+                      "size":  129536
                   },
                   {
                       "path":  "pack/icon.epk",
@@ -159,13 +164,13 @@
                   },
                   {
                       "path":  "pack/season1.epk",
-                      "sha256":  "9C53636BDBA672356C6E1BC5C411EAD7ECC6F830C700E147213C27605649472C",
-                      "size":  62986847
+                      "sha256":  "41AF7654453B36EBDC6BD729FAF1D4E1257DA65EA3EF7D17203CBA28650E6EBF",
+                      "size":  62986644
                   },
                   {
                       "path":  "pack/season1.eix",
-                      "sha256":  "4BEA6500B9DCBF57D091A4BDAFDDDDC99DF847DA240FF55A636928D6F0318505",
-                      "size":  128096
+                      "sha256":  "A40D62926CDBC97B447670C6339D39E35BF91A7359E3B2F3613A4C1E8F1F8474",
+                      "size":  128088
                   },
                   {
                       "path":  "icon/item/72350.tga",
@@ -218,5 +223,5 @@
                       "size":  3455488
                   }
               ],
-    "version":  "20261116062807"
+    "version":  "20261116203100"
 }
