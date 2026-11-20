@@ -1,0 +1,22 @@
+{
+  "duyurular": [
+    {
+      "id": 1,
+      "tag": "✦ DUYURULAR",
+      "tarih": "20.11.2026",
+      "baslik": "1-99 Hard Emek Büyük Açılış Geri Sayımı Başladı!",
+      "ozet": "Kayıtlar ve indirme linkleri aktif. Loncanı topla, efsaneye ortak ol!",
+      "link": "https://discord.gg/selcuklu2",
+      "aktif": true
+    },
+    {
+      "id": 2,
+      "tag": "✦ GÜNCELLEME",
+      "tarih": "20.11.2026",
+      "baslik": "Şeytan Kulesi 1. Kat ve Ferman Görevleri Güncellendi!",
+      "ozet": "1. Kat 15 dk metin sayacı, zindan koruması ve Sarı Kaplan Hayaleti görevi aktif.",
+      "link": "https://www.selcuklu2.com",
+      "aktif": true
+    }
+  ]
+}
