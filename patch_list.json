@@ -1,16 +1,16 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-20 07:36:11",
+    "updated_at":  "2026-11-20 07:44:03",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "FA6CA5BDE1CD50F2F9A08E8D4490916D6E2BE1BB68AB2C1B02A08BD070E0721C",
-                      "size":  8738569
+                      "sha256":  "87458286C4B2101FE44BD712F50237B11969665523F0A1D166417B61A2A05740",
+                      "size":  8739145
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "873DA30195C658F56446F354730759217496E64A0CA233798CC47661C326B83C",
-                      "size":  15208
+                      "sha256":  "6D62A7DE9CE45C6A4DDFC58E4C587A6E3AB060A67BF728B068ACA408AB8D43EC",
+                      "size":  15216
                   },
                   {
                       "path":  "pack/locale_tr.epk",
@@ -139,8 +139,8 @@
                   },
                   {
                       "path":  "pack/root.slk",
-                      "sha256":  "DDB6B414B7CC4405660C70A9FA6C8FCC38A20A122F98A577EBDE7C46209AEBFE",
-                      "size":  8753805
+                      "sha256":  "AB8EC24D5612752895B664602A205B4F96E5515FA62B04E34198243D6FAC3BF8",
+                      "size":  8754381
                   },
                   {
                       "path":  "pack/locale_tr.slk",
@@ -229,7 +229,7 @@
                   },
                   {
                       "path":  "Selcuklu2.exe",
-                      "sha256":  "37DBB3E517ABFD15173206043440F3A65B5B61247E8C802B8E49FF8F1DF3A414",
+                      "sha256":  "FC225398845A836936A7F1E391C5DAA0E8F989754576463D3E6D8932FD6309A1",
                       "size":  1111040
                   },
                   {
@@ -238,5 +238,5 @@
                       "size":  3460096
                   }
               ],
-    "version":  "20261120073611"
+    "version":  "20261120074403"
 }
