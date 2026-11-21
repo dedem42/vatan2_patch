@@ -1,15 +1,15 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-21 22:12:53",
+    "updated_at":  "2026-11-21 22:41:45",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "26D15C70AE6A014DE8D0B0A6CEB00268E45EB63FAA7255D191E427D1092053CB",
+                      "sha256":  "3890885D079310B08191EAF7C8B1F50F1F2DDB52623F17053EE166222F33AE7D",
                       "size":  8741097
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "D35C4E40CF13B3E9F2C23495C0BD19ED576963A97E6EBDA0EB2B2A03ECBE9812",
+                      "sha256":  "2A11B1D591E346F94AAD6ED1EC9B704593211B12AC3EDEC1BA960FE4F1A2D542",
                       "size":  15200
                   },
                   {
@@ -229,7 +229,7 @@
                   },
                   {
                       "path":  "Selcuklu2.exe",
-                      "sha256":  "169C80C088B9B198AC95DAB35D0EEB0A614ACF23FA5871E688CC8D159FF62B6C",
+                      "sha256":  "69DEE8D7A40F59C100AC3D7B4E9E33C8E71E1F35D022CB9BF3B43537E83200B6",
                       "size":  1815040
                   },
                   {
@@ -238,5 +238,5 @@
                       "size":  3460096
                   }
               ],
-    "version":  "20261121221253"
+    "version":  "20261121224145"
 }
