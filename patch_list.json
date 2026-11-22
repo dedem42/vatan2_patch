@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-22 03:08:30",
+    "updated_at":  "2026-11-22 03:23:34",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -79,13 +79,13 @@
                   },
                   {
                       "path":  "pack/patch6.epk",
-                      "sha256":  "8DAF415C874616A81ACA807A3BFC651C3C3B3C8B208A26C29BCBE59377120431",
-                      "size":  34383039
+                      "sha256":  "3E81826349C794404D145593EB1B932207935B4039C6683C335E074D3E26D80D",
+                      "size":  34384861
                   },
                   {
                       "path":  "pack/patch6.eix",
-                      "sha256":  "70014E537BE39E740C093975750E83477179C8CA6D4DD7B4A2A6A471A2A5CB2B",
-                      "size":  62000
+                      "sha256":  "F9CCB7FCC01CB19743E1597F201D4464E0C1FE9E483EB66B7F51B5FABB5951F6",
+                      "size":  62104
                   },
                   {
                       "path":  "pack/metin2_patch_dragon_rock.epk",
@@ -229,7 +229,7 @@
                   },
                   {
                       "path":  "Selcuklu2.exe",
-                      "sha256":  "BCC678FC33130F81F14B706DEC269F4D6EDCB5070BBBAB982FE3DB185F90387A",
+                      "sha256":  "E67E40D71425678B215993337C53D731709CE8346F41A34AF725604ED253FA46",
                       "size":  1815040
                   },
                   {
@@ -238,5 +238,5 @@
                       "size":  3460096
                   }
               ],
-    "version":  "20261122030830"
+    "version":  "20261122032334"
 }
