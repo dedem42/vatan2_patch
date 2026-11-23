@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-23 21:03:05",
+    "updated_at":  "2026-11-23 21:12:13",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -79,13 +79,13 @@
                   },
                   {
                       "path":  "pack/patch6.epk",
-                      "sha256":  "FE39E462E5C4CB3A27484B0BD465FC3712AB8E68BDC9CE5334962C1942D0CDB3",
-                      "size":  39024570
+                      "sha256":  "E7EFAAFE9E20184F70BD31562B91885BCE5A360ACF2C445082358BBC28D58807",
+                      "size":  39024904
                   },
                   {
                       "path":  "pack/patch6.eix",
-                      "sha256":  "FA1E937CE3C6A02565C462A6A23817EE2D8BDD9F6ED4265070DE1DB4D66A880F",
-                      "size":  64400
+                      "sha256":  "41662D8A9CD69185723E990F5E83EF00F3170C6F4A6C14E1F06C0F29EFE50A74",
+                      "size":  64408
                   },
                   {
                       "path":  "pack/metin2_patch_dragon_rock.epk",
@@ -159,8 +159,8 @@
                   },
                   {
                       "path":  "pack/patches.slk",
-                      "sha256":  "65D51D986BA53AFF85C28E2E9B5FC97D3C7430777E7A913E3362B704B40B7D55",
-                      "size":  71478923
+                      "sha256":  "0155B9DD88548D2B1A93D8038E95157B0CC14CA1A52BD688A84033F93F328E25",
+                      "size":  71479249
                   },
                   {
                       "path":  "pack/icon.epk",
@@ -229,7 +229,7 @@
                   },
                   {
                       "path":  "Selcuklu2.exe",
-                      "sha256":  "7D5D35B3CA1C66366ED9FE66F2CCF4C9156FFDDF1B1E786B565F835F37253CA6",
+                      "sha256":  "584E9A1175E315FA445B12CB165D4414765A3EA3F9D68AF05B8C17DAFA3922E3",
                       "size":  1815040
                   },
                   {
@@ -238,5 +238,5 @@
                       "size":  3461120
                   }
               ],
-    "version":  "20261123210305"
+    "version":  "20261123211213"
 }
