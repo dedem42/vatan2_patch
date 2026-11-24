@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-23 21:27:27",
+    "updated_at":  "2026-11-24 05:57:32",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -79,13 +79,13 @@
                   },
                   {
                       "path":  "pack/patch6.epk",
-                      "sha256":  "E7EFAAFE9E20184F70BD31562B91885BCE5A360ACF2C445082358BBC28D58807",
-                      "size":  39024904
+                      "sha256":  "481CEE9C4C02FB36860FB93B4CD3AD57A124BB14C34F85FB9798A2521CD110CD",
+                      "size":  39177850
                   },
                   {
                       "path":  "pack/patch6.eix",
-                      "sha256":  "41662D8A9CD69185723E990F5E83EF00F3170C6F4A6C14E1F06C0F29EFE50A74",
-                      "size":  64408
+                      "sha256":  "F2394DFACCF4B6C912D925E731A0BD43A437D17B92CE82EF7D7C46E497969A46",
+                      "size":  64392
                   },
                   {
                       "path":  "pack/metin2_patch_dragon_rock.epk",
@@ -159,8 +159,8 @@
                   },
                   {
                       "path":  "pack/patches.slk",
-                      "sha256":  "0155B9DD88548D2B1A93D8038E95157B0CC14CA1A52BD688A84033F93F328E25",
-                      "size":  71479249
+                      "sha256":  "7290D1BEA2A19D5933FBCD91FC36C65453268D374FB23819E4E55AB1B9F040EE",
+                      "size":  71632147
                   },
                   {
                       "path":  "pack/icon.epk",
@@ -229,14 +229,14 @@
                   },
                   {
                       "path":  "Selcuklu2.exe",
-                      "sha256":  "6D78A1EF5A5161EC33B413F421BB08185CF6DCB2C93B4936A3920359A82B0CF3",
+                      "sha256":  "93D7453BFE6DC4D8E6AB88856AC883EE11899AE8D00FCAE75931A0589F231A33",
                       "size":  1815040
                   },
                   {
                       "path":  "Selcuklu2.bin",
-                      "sha256":  "60476452516AC902A235B753BA17C7F2B8B730AFCB194A106546F37E6C5067C1",
+                      "sha256":  "7962BF54F1B3C866ACA9DDC7C03A25C482C85B71C8428F7481CBE35697D6DA75",
                       "size":  3461120
                   }
               ],
-    "version":  "20261123212727"
+    "version":  "20261124055732"
 }
