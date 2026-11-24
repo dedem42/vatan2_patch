@@ -1,6 +1,6 @@
-﻿{
+{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-24 08:00:52",
+    "updated_at":  "2026-11-24 22:35:08",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -149,8 +149,8 @@
                   },
                   {
                       "path":  "pack/icon.slk",
-                      "sha256":  "7122F58198187022961CB74E7D59D8E1754A527DE204861A43B5C98286CFE31B",
-                      "size":  9654056
+                      "sha256":  "4750BA5CAFA4CB98BA98AC1426886EDEDDC1E335D0E9473AA5BFEE10AFDA0514",
+                      "size":  9661366
                   },
                   {
                       "path":  "pack/property.slk",
@@ -164,13 +164,13 @@
                   },
                   {
                       "path":  "pack/icon.epk",
-                      "sha256":  "E226C17C6FE60447A025B667216138380DB104C4C6B2EFA5CDE566F637D6F11F",
-                      "size":  9572510
+                      "sha256":  "6D3D3F539B442DD570898453C82ECFCC598C566D0EC51E04DA6D57D97902F510",
+                      "size":  9577810
                   },
                   {
                       "path":  "pack/icon.eix",
-                      "sha256":  "DA8E7A4AC7E590232814011BDDB1A6B970C8575BD088C57277B25FCC0F610224",
-                      "size":  83456
+                      "sha256":  "E097DF46304DA0AA4272A176015EA1B0AB4B28B3F3537CBB3B381B1E0210167B",
+                      "size":  83528
                   },
                   {
                       "path":  "pack/season1.epk",
@@ -236,7 +236,17 @@
                       "path":  "Selcuklu2.bin",
                       "sha256":  "F739E61444522F26A3386A1E434D4A1E8816E46E26C0D0A23B137539DD19D79A",
                       "size":  3439616
+                  },
+                  {
+                      "path":  "pack/Property.epk",
+                      "sha256":  "9D94F695164B37DFE905C8185444B8CB1EB6705838980332A1DBD799D5E36BDE",
+                      "size":  2747481
+                  },
+                  {
+                      "path":  "pack/Property.eix",
+                      "sha256":  "BFFAF61E645991355BCCA14CD4D557CFDFD2D246DF75268EAB8A8CBF77627C59",
+                      "size":  61000
                   }
               ],
-    "version":  "20261124080052"
+    "version":  "20261124223508"
 }
