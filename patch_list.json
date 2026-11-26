@@ -1,6 +1,6 @@
-{
+﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-24 22:35:08",
+    "updated_at":  "2026-11-26 06:32:59",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -88,6 +88,16 @@
                       "size":  64392
                   },
                   {
+                      "path":  "pack/Property.epk",
+                      "sha256":  "9D94F695164B37DFE905C8185444B8CB1EB6705838980332A1DBD799D5E36BDE",
+                      "size":  2747481
+                  },
+                  {
+                      "path":  "pack/Property.eix",
+                      "sha256":  "BFFAF61E645991355BCCA14CD4D557CFDFD2D246DF75268EAB8A8CBF77627C59",
+                      "size":  61000
+                  },
+                  {
                       "path":  "pack/metin2_patch_dragon_rock.epk",
                       "sha256":  "482FB43DAE6212A9ECDDF9D3B316B1384DBEBA69E4E104C7996A25646F648EC8",
                       "size":  25187151
@@ -149,7 +159,7 @@
                   },
                   {
                       "path":  "pack/icon.slk",
-                      "sha256":  "4750BA5CAFA4CB98BA98AC1426886EDEDDC1E335D0E9473AA5BFEE10AFDA0514",
+                      "sha256":  "0BF0937C9353AAB8FA9B11B5AA26C7CE20381AA31E06F2DE2CDE31F75700E827",
                       "size":  9661366
                   },
                   {
@@ -229,24 +239,14 @@
                   },
                   {
                       "path":  "Selcuklu2.exe",
-                      "sha256":  "E59D0B580EDE3ADD51DBAC78E88F451E1BBFF40E68894727FCC22BB83DAD80C7",
+                      "sha256":  "1EB94B70B48875D864385BB37194FC33433A3805F9CF8C9D68C04F95BA1C3374",
                       "size":  1815040
                   },
                   {
                       "path":  "Selcuklu2.bin",
                       "sha256":  "F739E61444522F26A3386A1E434D4A1E8816E46E26C0D0A23B137539DD19D79A",
                       "size":  3439616
-                  },
-                  {
-                      "path":  "pack/Property.epk",
-                      "sha256":  "9D94F695164B37DFE905C8185444B8CB1EB6705838980332A1DBD799D5E36BDE",
-                      "size":  2747481
-                  },
-                  {
-                      "path":  "pack/Property.eix",
-                      "sha256":  "BFFAF61E645991355BCCA14CD4D557CFDFD2D246DF75268EAB8A8CBF77627C59",
-                      "size":  61000
                   }
               ],
-    "version":  "20261124223508"
+    "version":  "20261126063259"
 }
