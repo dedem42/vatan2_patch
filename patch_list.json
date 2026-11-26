@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-26 06:46:22",
+    "updated_at":  "2026-11-26 06:47:20",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -14,13 +14,13 @@
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "A99E2CF467D68BA22EFC6ED364BCABA3D8FF21BBA1B5CC63E47A904957AF3EA9",
-                      "size":  14291904
+                      "sha256":  "1691AE7E761F18B58FE9E7F2B955513EA9F50E54CC3CAD361770A7F1536CBB87",
+                      "size":  14292328
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "B5D7625A87F8DE92CAED264508081ED58D8F434A3ECF11121B36C2CDC952209D",
-                      "size":  28160
+                      "sha256":  "E55E13E4D5101E79DE3DA9D0B0B75DA80F006744142E5F9EE0B212B7B3110B8A",
+                      "size":  28152
                   },
                   {
                       "path":  "pack/uiscript.epk",
@@ -149,7 +149,7 @@
                   },
                   {
                       "path":  "pack/root.slk",
-                      "sha256":  "60CF3DCD68B55E832377F3FC14E11969B3EFCA8975DBA7978F5D33DB630B2E3F",
+                      "sha256":  "6DE2004241A2316E8F025A35ACC3B66DADC40BFAACBDF633532119FFF4113D4D",
                       "size":  8646749
                   },
                   {
@@ -239,7 +239,7 @@
                   },
                   {
                       "path":  "Selcuklu2.exe",
-                      "sha256":  "0DB1DA40AE5CEA6526EAC9691D32DB941C2EF15A8770BA1EC2616611F6238E97",
+                      "sha256":  "E5662FFE158FD254A69B4236E3F4D34E03586F6E81F2E6DA7B22104809A7D15F",
                       "size":  1815040
                   },
                   {
@@ -248,5 +248,5 @@
                       "size":  3439616
                   }
               ],
-    "version":  "20261126064622"
+    "version":  "20261126064720"
 }
