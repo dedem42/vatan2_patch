@@ -1,6 +1,6 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-26 07:01:39",
+    "updated_at":  "2026-11-26 07:04:28",
     "files":  [
                   {
                       "path":  "pack/root.epk",
@@ -14,13 +14,13 @@
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "3E0A1F8D1479C5CE99B040ECC8142C55AD225A2D53D1103836BDAA20FB17C7DA",
-                      "size":  14292152
+                      "sha256":  "AD8C0513531DF115A2E7D439F9DB4E59FE98EF2382FE6EFDC8DF14D7D55E8AF7",
+                      "size":  14292320
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "A33A38EAF7250E2BD5C342C3D22C457A4F7ECD30D95BA0F8CD27278AA110A132",
-                      "size":  28168
+                      "sha256":  "D2C0B2C5D0B482C325ECC1FB5FF9A63139367EB335CE6D249258F83641109263",
+                      "size":  28152
                   },
                   {
                       "path":  "pack/uiscript.epk",
@@ -154,8 +154,8 @@
                   },
                   {
                       "path":  "pack/locale_tr.slk",
-                      "sha256":  "E89AE70BF02E59217E31CAACD4B324A35E24577B043BD436C409AF941003060D",
-                      "size":  14320316
+                      "sha256":  "73D73730C2BE43DDA8857372C7D1350E5C3B3CCE194F708CA0E47F6666FBE3A1",
+                      "size":  14320500
                   },
                   {
                       "path":  "pack/icon.slk",
@@ -239,7 +239,7 @@
                   },
                   {
                       "path":  "Selcuklu2.exe",
-                      "sha256":  "687BC747FAFBCD51C282CC0A4B586A04C7DC01A9741FFD170E90F3B43EFF7596",
+                      "sha256":  "8BAA08E065EC0C341B41F9644758BD9AD2FE1307365CA7D7C18D396EB397E71C",
                       "size":  1815040
                   },
                   {
@@ -248,5 +248,5 @@
                       "size":  3439616
                   }
               ],
-    "version":  "20261126070139"
+    "version":  "20261126070428"
 }
