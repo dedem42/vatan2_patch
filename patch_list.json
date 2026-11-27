@@ -1,26 +1,26 @@
 ﻿{
     "base_url":  "https://raw.githubusercontent.com/dedem42/vatan2_patch/main/",
-    "updated_at":  "2026-11-27 05:55:01",
+    "updated_at":  "2026-11-27 06:04:09",
     "files":  [
                   {
                       "path":  "pack/root.epk",
-                      "sha256":  "07377E2D1938655B75ADA5A8ECCF7CED9435A85FDEDD4FC94171778859772BDA",
-                      "size":  8633665
+                      "sha256":  "AA75A2E8004FC29FE7DF5B18448B62FEFBD72582E0A7882C4D95CE39496F6D21",
+                      "size":  8633673
                   },
                   {
                       "path":  "pack/root.eix",
-                      "sha256":  "C00D9B9D686B4228B605EC61ECF2A862E2BB03B2EC75CA6A9D7CFEE039B3F01A",
+                      "sha256":  "44126E3C011538629A5125ADC142902858FA134277AF49241ED386DD0C6EC86D",
                       "size":  15128
                   },
                   {
                       "path":  "pack/locale_tr.epk",
-                      "sha256":  "B3A22553F6D63BDF7DDCD8926583FCFD684FF0FE21D7A07B30704C7DDC567ADA",
-                      "size":  29725652
+                      "sha256":  "C14DD7E776C9BDB0C42CA6AD2732352A14598D3D45AD6E62FC9B8D1AA25A9E6A",
+                      "size":  32267254
                   },
                   {
                       "path":  "pack/locale_tr.eix",
-                      "sha256":  "7B5657614738A835701AE6731F6D603FBB28AB2420498FE369E8C013A017D5D7",
-                      "size":  28616
+                      "sha256":  "56D65CEFC24C0103D79218C558C0E495EC2518FC205E9BA7D7289A53DB95A161",
+                      "size":  28744
                   },
                   {
                       "path":  "pack/uiscript.epk",
@@ -149,13 +149,13 @@
                   },
                   {
                       "path":  "pack/root.slk",
-                      "sha256":  "20C3FE1027D8B5A5D5AA040263481DA835BEC82D04C8005AF9B7F08757E07DBD",
-                      "size":  8648813
+                      "sha256":  "6B64705ED61E9CA0F1FE55A6462256A718A4186E864CCCB62D94E5C84D6A3493",
+                      "size":  8648829
                   },
                   {
                       "path":  "pack/locale_tr.slk",
-                      "sha256":  "E8071CBDD136FA0B473805FABE5549734F5DD52CF49603049A5D3A38D9271146",
-                      "size":  29754280
+                      "sha256":  "9A2D7614D07EB823CE1E6079BAA6E4EA73DD62420D625752FDAC1AE897BF660E",
+                      "size":  32296010
                   },
                   {
                       "path":  "pack/icon.slk",
@@ -239,14 +239,14 @@
                   },
                   {
                       "path":  "Selcuklu2.exe",
-                      "sha256":  "418BFA1A221B540B15C1FA2F49304E0995F3B8286C210FC3907C9E026A03AEE1",
+                      "sha256":  "203A8F57AC83A104D9E7960B2EC72E55BFF5420E39C181E8A15006B704FEF9F4",
                       "size":  1815040
                   },
                   {
                       "path":  "Selcuklu2.bin",
-                      "sha256":  "C564B7B7DDB89B580F80A5649778E432DD76E7E13410F62E717A16D4AB51BFDC",
+                      "sha256":  "9C837A9A16A21D4C2E2B79F4B0509B09F71FA6856AFA24F8D61F5B3C699EF445",
                       "size":  3441664
                   }
               ],
-    "version":  "20261127055501"
+    "version":  "20261127060409"
 }
